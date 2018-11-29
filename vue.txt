@@ -23,3 +23,10 @@ https://github.com/andersao/l5-repository
 
 # Design Pattern
 https://sourcemaking.com/design_patterns
+
+- SOLID là nguyên tắc lập trình hướng đối tượng
+- DI là design pattern áp dụng chữ D trong SOLID (DI trong laravel, D: dependent inversion)
+
+# OOP + PHP
+https://viblo.asia/p/series-php-lap-trinh-huong-doi-tuong-phan-1-GrLZDbzO5k0
+https://github.com/laravel/cashier
