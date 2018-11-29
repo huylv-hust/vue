@@ -1,0 +1,25 @@
+# NoteJS
+
+bash
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+## Run `sudo apt-get install -y nodejs` to install Node.js 8.x LTS Carbon and npm
+sudo apt-get install -y nodejs
+## You may also need development tools to build native addons:
+sudo apt-get install gcc g++ make
+## To install the Yarn package manager, run:
+curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt-get update && sudo apt-get install yarn
+
+# Vue
+https://viblo.asia/s/hoc-vuejs-va-laravel-tu-can-ban-den-nang-cao-z45bxjq6ZxY
+
+# Repository
+https://github.com/andersao/l5-repository
+
+# Presenter
+
+# Transformer
+
+# Design Pattern
+https://sourcemaking.com/design_patterns
