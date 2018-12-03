@@ -1,6 +1,9 @@
 <template>
     <div class="product-component">
-        {{ message }}
+        <div>{{ message }}</div>
+        <div>
+            <button @click="printText">Click Me</button>
+        </div>
     </div>
 </template>
 
@@ -8,7 +11,13 @@
     export default {
         data() {
             return {
-                message: 'Hello World!'
+                message: 'Hello World ^^'
+            }
+        },
+        methods: {
+            printText() {
+                //alert("Hello every body! Love all ^^")
+                this.message = "You are my everything ^^";
             }
         }
     }

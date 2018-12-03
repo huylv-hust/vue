@@ -30,3 +30,8 @@ https://sourcemaking.com/design_patterns
 # OOP + PHP
 https://viblo.asia/p/series-php-lap-trinh-huong-doi-tuong-phan-1-GrLZDbzO5k0
 https://github.com/laravel/cashier
+https://viblo.asia/p/cac-phuong-phap-thiet-ke-huong-doi-tuong-solid-DZrGNDgrkVB
+
+#IDE
+
+https://github.com/barryvdh/laravel-ide-helper

@@ -43745,12 +43745,22 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
         return {
-            message: 'Hello World!'
+            message: 'Hello World ^^'
         };
+    },
+
+    methods: {
+        printText: function printText() {
+            //alert("Hello every body! Love all ^^")
+            this.message = "You are my everything ^^";
+        }
     }
 });
 
@@ -43763,7 +43773,11 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "product-component" }, [
-    _vm._v("\n    " + _vm._s(_vm.message) + "\n")
+    _c("div", [_vm._v(_vm._s(_vm.message))]),
+    _vm._v(" "),
+    _c("div", [
+      _c("button", { on: { click: _vm.printText } }, [_vm._v("Click Me")])
+    ])
   ])
 }
 var staticRenderFns = []
