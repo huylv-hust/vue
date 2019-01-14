@@ -17,6 +17,10 @@ https://viblo.asia/s/hoc-vuejs-va-laravel-tu-can-ban-den-nang-cao-z45bxjq6ZxY
 # Repository
 https://github.com/andersao/l5-repository
 
+https://viblo.asia/p/ung-dung-repository-vao-laravel-Az45bpoLZxY
+https://viblo.asia/p/tim-hieu-ve-repository-pattern-trong-laravel-part-ii-oZVRgl2EMmg5
+https://viblo.asia/p/the-repository-design-pattern-AeJ1vONQGkby
+
 # Presenter
 
 # Transformer
@@ -35,3 +39,13 @@ https://viblo.asia/p/cac-phuong-phap-thiet-ke-huong-doi-tuong-solid-DZrGNDgrkVB
 #IDE
 
 https://github.com/barryvdh/laravel-ide-helper
+
+#Laravel
+https://viblo.asia/p/kien-truc-he-thong-tren-laravel-phan-1-Qbq5Qr0XKD8
+
+#Refactoring
+https://viblo.asia/p/refactoring-mo-dau-eW65GdP9KDO
+
+#Blog
+- Viblo (https://viblo.asia)
+- Kipalog (https://kipalog.com/)
